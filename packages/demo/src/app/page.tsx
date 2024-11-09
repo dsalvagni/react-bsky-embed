@@ -7,7 +7,7 @@ export default function Home() {
         <div className="text-slate-900 dark:text-gray-100">
           <h1 className="text-3xl leading-1">React Bluesky Embed component</h1>
           <p className="dark:text-slate-400 py-1">
-            I'm using the template from{" "}
+            I&apos;m using the template from{" "}
             <a
               className="text-blue-500 hover:underline"
               href="https://embed.bsky.app/"
@@ -29,14 +29,14 @@ export default function Home() {
             sdk.
           </p>
           <p className="dark:text-slate-400 py-1">
-            It's still missing <code>i18n</code> though. I done a simple
-            implementation with <code>i18n-next</code>, but it doesn't work for
-            all scenarios. I'd like to be able to render different posts in
-            different languages.
+            It&apos;s still missing <code>i18n</code> though. I done a simple
+            implementation with <code>i18n-next</code>, but it doesn&apos;t work
+            for all scenarios. I&apos;d like to be able to render different
+            posts in different languages.
           </p>
           <p className="dark:text-slate-400 py-1">
-            Below there's a collection of posts with different contents that I'm
-            using to <em>validate</em> the use cases.
+            Below there&apos;s a collection of posts with different contents
+            that I&apos;m using to <em>validate</em> the use cases.
           </p>
 
           <p className="dark:text-slate-400 py-1">
