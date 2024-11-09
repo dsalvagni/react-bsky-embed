@@ -15,6 +15,7 @@
   "scripts": {
     "build": "pnpm --filter @dsalvagni/react-bsky-embed build",
     "watch": "pnpm --filter @dsalvagni/react-bsky-embed build --watch",
+    "release": "pnpm --filter @dsalvagni/react-bsky-embed release",
     "demo": "pnpm --filter demo dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
