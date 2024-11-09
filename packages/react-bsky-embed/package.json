@@ -1,6 +1,13 @@
 {
   "name": "@dsalvagni/react-bsky-embed",
   "private": false,
+  "description": "React Server Component to embed Bluesky posts",
+  "keywords": [
+    "react",
+    "rsc",
+    "react server component",
+    "bluesky"
+  ],
   "version": "0.0.0",
   "type": "module",
   "files": [

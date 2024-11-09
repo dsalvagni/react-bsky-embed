@@ -1,5 +1,7 @@
 # react-bsky-embed
 
+Read more about [React RSC](https://react.dev/reference/rsc/server-components).
+
 I'm using the template from https://embed.bsky.app/ to render the post content according to the Bluesky app design, and consuming the API via @atproto/api sdk.
 
 It's still missing i18n though. I done a simple implementation with i18n-next, but it doesn't work for all scenarios. I'd like to be able to render different posts in different languages.
