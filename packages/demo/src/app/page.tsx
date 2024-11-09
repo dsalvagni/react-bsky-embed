@@ -38,6 +38,17 @@ export default function Home() {
             Below there's a collection of posts with different contents that I'm
             using to <em>validate</em> the use cases.
           </p>
+
+          <p className="dark:text-slate-400 py-1">
+            Code available:{" "}
+            <a
+              href="https://www.npmjs.com/package/@atproto/api"
+              className="text-blue-500 hover:underline"
+              target="_blank"
+            >
+              https://github.com/dsalvagni/react-bsky-embed
+            </a>
+          </p>
         </div>
         <div className="text-slate-900 dark:text-gray-100">
           <h1 className="text-2xl">Text only</h1>
