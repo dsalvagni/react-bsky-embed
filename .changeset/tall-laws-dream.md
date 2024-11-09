@@ -1,5 +1,0 @@
----
-"demo": patch
----
-
-Render examples
