@@ -42,7 +42,7 @@ export default function Home() {
           <p className="dark:text-slate-400 py-1">
             Code available:{" "}
             <a
-              href="https://www.npmjs.com/package/@atproto/api"
+              href="https://github.com/dsalvagni/react-bsky-embed"
               className="text-blue-500 hover:underline"
               target="_blank"
             >
