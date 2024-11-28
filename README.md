@@ -12,6 +12,8 @@ Code available: https://github.com/dsalvagni/react-bsky-embed
 
 ## Getting started
 
+Check this out in [codesandbox](https://codesandbox.io/p/devbox/4t4xk2) using Next 15.
+
 Install `@dsalvagni/react-bsky-embed` package.
 
 ```
