@@ -20,7 +20,7 @@
   "types": "./dist/main.d.ts",
   "scripts": {
     "build": "tsc -b && vite build",
-    "release": "pnpm build && pnpm publish",
+    "release": "pnpm build && pnpm publish --access public",
     "lint": "eslint ."
   },
   "peerDependencies": {
